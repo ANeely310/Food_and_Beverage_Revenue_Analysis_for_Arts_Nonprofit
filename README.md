@@ -128,7 +128,7 @@ This multi-page query identifies the top-selling item within a selected food and
  
  <h2>💰 EXECUTIVE DASHBOARD: Sales & Collections</h2>
  
-**SQL Query:** [Sales & Collections Query](SQL_Queries/top_item_by_category.sql)
+**SQL Query:** [Sales & Collections Query](SQL_Queries/Sales_and_Collections_Query.sql)
  
 <b>Business Scenario</b>
  
